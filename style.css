@@ -1,0 +1,26 @@
+html{
+    background-color: black;
+}
+
+.separation{
+    color:white;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.boolean{
+    color:teal;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.key{
+    color:aqua;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.value{
+    color:brown;
+    font-size: large;
+}
